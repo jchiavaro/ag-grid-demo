@@ -50,3 +50,9 @@ See the section about [deployment](#deployment) for more information.
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+### `deployment`
+The application is deployed and running on Heroku:
+[ng-grid-demo-heroku](https://github.com/jchiavaro/ag-grid-demo)
+Automatic deployment is enabled, every push on master will create a new deployment.
+
