@@ -53,6 +53,6 @@ See the section about [deployment](#deployment) for more information.
 
 ### `deployment`
 The application is deployed and running on Heroku:
-[ng-grid-demo-heroku](https://github.com/jchiavaro/ag-grid-demo)
+[ng-grid-demo-heroku](https://my-ag-grid-demo.herokuapp.com/)
 Automatic deployment is enabled, every push on master will create a new deployment.
 
